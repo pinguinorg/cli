@@ -1,0 +1,10 @@
+{
+  "name": "@pinguinorg/cli",
+  "version": "0.0.0.1.a",
+  "description": "Our cli app for cloning and managing projects...",
+  "main": "index.js",
+  "repository": "https://github.com/pinguinorg/cli",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "GPL-3.0",
+  "private": false
+}

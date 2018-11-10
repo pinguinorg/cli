@@ -6,5 +6,8 @@
   "repository": "https://github.com/pinguinorg/cli",
   "author": "Misha Marinenko <a0x77@icloud.com>",
   "license": "GPL-3.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "consola": "^2.2.4"
+  }
 }
